@@ -10,7 +10,7 @@
 #import "EUMTouchPointView.h"
 
 #define kAnimationDuration 0.1
-#define kStartScale 2
+#define kStartScale 3
 #define kEndScale 1.2
 
 @implementation EUMShowTouchWindow
